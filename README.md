@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Each section of page had its own bakcground image or color, I believe that making one background image that can flow with the whole page would look good. Maybe the bakcground colors or image change in between each page for uniqueness.
