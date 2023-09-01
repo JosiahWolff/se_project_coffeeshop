@@ -12,34 +12,34 @@
 }
 
 .about {
+  padding: 100px 80px 173px 80px;
   background-color: #0a2850;
   position: relative;
-  margin: auto;
   overflow: hidden;
-  padding: 0;
+  display: flex;
+  justify-content: space-between;
 }
-
 .about__title {
-  color: #ffffff;
-  font-family: "Inter", Arial, sans-serif;
+  max-width: 251px;
+  z-index: 2;
+  position: relative;
+  margin-top: 0;
+  color: white;
+  font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 0;
-  z-index: 2;
-  max-width: 251px;
-  position: absolute;
-  padding: 100px 0 0 80px;
 }
-
 .about__content {
+  padding: 19px 80px 173px 0s;
+  color: white;
   max-width: 660px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin: 119px 80px 173px auto;
-  padding: 20px 0 0;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .about__paragraph {
