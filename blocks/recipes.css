@@ -18,7 +18,7 @@
 }
 
 .recipes__subtitle {
-  font-family: "Noto Serif", Arial, sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   color: white;
   font-size: 20px;
   line-height: 30px;
@@ -27,7 +27,7 @@
 }
 
 .recipes__iframe {
-  border: default;
+  border: none;
   width: 480px;
   height: 273px;
 }

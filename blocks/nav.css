@@ -31,5 +31,5 @@
 }
 
 .nav__link:hover {
-  color: #1f69c9;
+  opacity: 0.5;
 }
