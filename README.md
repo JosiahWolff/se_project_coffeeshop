@@ -23,4 +23,6 @@ Footer
 
 
 
-## [Active Site](https://josiahwolff.github.io/se_project_coffeeshop/)
+## Links
+
+-[Active Site](https://josiahwolff.github.io/se_project_coffeeshop/)
